@@ -2,8 +2,8 @@
 published: true
 layout: post
 category: ubuntu
-tags: 
-  - "sublime-text"
+tags:
+  - sublime-text
 ---
 
 ## Sublime Text 2
@@ -32,6 +32,19 @@ Perferences → Settings – User
 ref. [Using Source Code Pro with Sublime Text 2 and Terminal](http://blogs.adobe.com/cantrell/archives/2012/10/using-source-code-pro-with-sublime-text-2.html)
 
 Download [SourceCodePro_FontsOnly-1.017.zip](http://sourceforge.net/projects/sourcecodepro.adobe/)
+
+## Package Control
+ref. [Package Control Installation](https://packagecontrol.io/installation#st2)
+
+### Usage
+Preferences -> Package Control
+
+Add Channel: https://packagecontrol.io/browse
+
+### Install Package
+Preferences -> Package Control
+
+Install Package: ctags
 
 ## Q&A
 
