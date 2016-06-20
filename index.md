@@ -110,7 +110,7 @@ title: ICT
 
 ## [Google](/web/google)
 
-##[OpenShift](web/openshift)
+## [OpenShift](web/openshift)
 
 # Windows
 
