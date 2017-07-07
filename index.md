@@ -104,6 +104,8 @@ title: ICT
 
 ## [Ubuntu 16.04](/ubuntu/ubuntu-16.04)
 
+## [XRDP](/ubuntu/xrdp)
+
 # Web
 
 ## [Github](/web/github)
